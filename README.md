@@ -67,6 +67,14 @@ Feel free to tweak any setting, then save and rerun the bot.
    ```
    [Listening ▉▉▏ 0.075/0.020] Delay=1.0s
    ```
+
+6. Disable Ambient Noise and Music in the in game settings
+
+7. Find a quiet spot with water somewhere
+
+8. Zoom your camera all the way in while facing the water
+
+9. Press **Enter** to start the bot
 ---
 
 ## Troubleshooting
