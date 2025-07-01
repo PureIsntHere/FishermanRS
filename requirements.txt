@@ -1,0 +1,6 @@
+numpy
+soundcard
+pyautogui
+pygetwindow
+keyboard
+rich
